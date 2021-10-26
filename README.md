@@ -4,4 +4,4 @@ xammp
 MX RECORD
 DNS/mmps/lamps/cname/
 aliassing====>>>TAKE LONGER to reach
-
+ssl certificat worthless
